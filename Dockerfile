@@ -1,4 +1,4 @@
-FROM zargor/mentos:latest
+FROM zargor/mentos:release
 
 RUN touch /tmp/centos-1/centos-4.txt
 
